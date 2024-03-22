@@ -1,0 +1,229 @@
+ID Empleado;Apellido;Nombre;Seccional;Facultad;Cargo;Fch comienzo;Salario Anual;Fch nacimiento
+19752;Posada;Carlos;Bogota;Facultad de Derecho;Docente;33365;3200000;25839
+19202;Lema;Maria;Medellin;Facultad de Ingenieria;Aux. Administrativo;33338;1350000;25757
+10867;Guerra;Lisa;Medellin;Facultad de Diseño;Docente;33083;2300000;22347
+17191;Guerrero;Alexandra;Medellin;Facultad de Diseño;Docente;28531;2300000;19866
+18456;Restrepo;Karen;Palmira;Facultad de Diseño;Aux. Administrativo;31217;1500000;23199
+18236;Arango;Felipe;Medellin;Facultad de Administracion;Administrativo;32679;2560000;25351
+12783;Serna;Pamela;Bucaramanga;Facultad de Ingenieria;Aux. Administrativo;33083;1350000;22943
+13582;Lopez;Dinara;Bucaramanga;Facultad de Ingenieria;Administrativo;33083;5600000;20280
+12060;Casadiegos;Manuela;Medellin;Facultad de Ingenieria;Aux. Administrativo;30900;1350000;23918
+18845;Pelaez;Alberto;Medellin;Facultad de Administracion;Docente;32894;1350000;24038
+18356;Girando;Felipe;Medellin;Facultad de Administracion;Aux. Administrativo;31729;1350000;23823
+11310;Jimenez;Karina;Medellin;Facultad de Ingenieria;Tecnico;30939;1700000;19961
+17991;Cano;Carolina;Medellin;Facultad de Ingenieria;Docente;32979;3200000;24022
+14186;Jaramillo;Santiago;Medellin;Facultad de Administracion;Docente;33083;1350000;23834
+17804;Burgos;Jeronimo;Palmira;Facultad de Administracion;Administrativo;30046;3200000;18899
+17959;Muñoz;Maritza;Medellin;Facultad de Ingenieria;Docente;31421;3200000;20360
+13064;Saldarriaga;Virginia;Monteria;Facultad de Comunicacion;;33490;4200000;22202
+17276;Tamayo;Gloria;Monteria;Facultad de Ingenieria;Docente;31728;3200000;21267
+10685;Aristizabal;Natalia;Bogota;Facultad de Derecho;Docente investigador;33823;3200000;25443
+19857;Cock;Cristina;Medellin;Facultad de Diseño;Administrativo;33083;2960000;23883
+18236;Bermudez;Jesus;Medellin;Facultad de Diseño;Docente;31681;3800000;23694
+15372;Arango;Felipe;Medellin;Facultad de Administracion;Administrativo;32679;2560000;25351
+10730;Posada;Sergio;Monteria;Facultad de Comunicacion;Docente;28523;5600000;19877
+12341;Carmona;Jose;Palmira;Facultad de Administracion;Docente;32117;3200000;23294
+18441;Ruiz;Susana;Bogota;Facultad de Derecho;Administrativo;31538;3200000;17751
+14155;Diaz ;Lucero;Monteria;Facultad de Ingenieria;Docente;29377;3200000;24741
+16644;Alzate;Angela;Monteria;Facultad de Ingenieria;Tecnico;31543;2800000;24491
+15511;Perez;Alicia;Bucaramanga;Facultad de Ingenieria;Aux. Administrativo;32971;1350000;24033
+17135;Vallejo;Sara;Medellin;Facultad de Diseño;Docente;33094;2300000;22074
+16538;Palacio;Paula;Medellin;Facultad de Diseño;Docente;29871;4100000;18685
+11028;Perez;Elena;Medellin;Facultad de Administracion;Administrativo;31495;1350000;22982
+16879;Caro;Diana;Medellin;Facultad de Ingenieria;Administrativo;29276;5600000;21790
+10433;Bustos;Jacobo;Bogota;Facultad de Publicidad;Docente investigador;32445;3700000;19334
+18618;Jaramillo;David;Bogota;Facultad de Publicidad;Docente investigador;28368;3400000;21263
+16440;Guerrero;Alexandra;Medellin;Facultad de Diseño;Docente;28531;2300000;19866
+19733;Mendez;Tammy;Medellin;Facultad de Administracion;Docente;30386;1280000;21678
+13730;Villegas;Estefania;Palmira;Facultad de Administracion;Docente;33688;3200000;23393
+16366;Castrillon;Juliana;Bucaramanga;Facultad de Ingenieria;Docente;32639;3100000;23518
+12252;Ramirez;Tomas;Medellin;Facultad de Administracion;Tecnico;32886;1350000;24049
+15196;Gracia;Simon;Medellin;Facultad de Medicina;Aux. Administrativo;29908;1390000;24007
+14693;Hoyos;Adriana;Bogota;Facultad de Derecho;Docente;33336;3200000;24704
+17400;Osorio;Julieth;Medellin;Facultad de Medicina;Docente;32561;3500000;23503
+19795;Osorio;Catalina;0;Facultad de Derecho;Docente;32863;3200000;23998
+10014;Hincapie;Victoria;Bucaramanga;Facultad de Administracion;Docente;30054;4600000;18888
+13782;Sanchez;Miguel;Medellin;Facultad de Ingenieria;Docente;30689;3200000;18061
+17119;Zea ;Jorge;Monteria;Facultad de Comunicacion;Docente;29885;6500000;25447
+16507;Castro;Monica;Medellin;Facultad de Medicina;Administrativo;33890;5700000;25761
+17013;Ospina;Daniel;Medellin;Facultad de Administracion;Docente;33258;1460000;24487
+13841;Rodas;Gabriel;Bogota;Facultad de Publicidad;Docente investigador;30204;3600000;21399
+10332;Marulanda;Sofia;Medellin;Facultad de Diseño;Docente;30240;2300000;24011
+12270;Merizalde;Antonio;Palmira;Facultad de Diseño;Docente;31051;3200000;22991
+14583;Gomez;Carlos;Medellin;Facultad de Medicina;Administrativo;32855;2300000; 
+10491;Higuita;Cathy;Bogota;Facultad de Medicina;Docente;30967;3200000;14626
+10090;Uribe;Carmen;Medellin;Facultad de Administracion;Aux. Administrativo;31042;1350000;20559
+10232;Arias;Francisco;Palmira;Facultad de Diseño;Docente;31043;3200000;23002
+14416;Cock;Cristina;Medellin;Facultad de Diseño;Administrativo;33083;2960000;23883
+17133;Diaz ;Lucero;Monteria;Facultad de Ingenieria;Docente;29377;3200000;24741
+14324;Marquez;Isabella;Bucaramanga;Facultad de Administracion;Administrativo;28533;5600000;20235
+14942;Zea ;Jorge;Monteria;Facultad de Comunicacion;Docente;29885;6500000;25447
+19752;Ramirez;Eliana;Palmira;Facultad de Administracion;Docente;32553;3200000;23514
+13861;Carmona;Sebastian;Medellin;Facultad de Administracion;Docente;29877;1500000;25458
+17462;Diaz ;Mariana;Monteria;Facultad de Comunicacion;Docente;33970;3200000;25342
+12885;Castro;Monica;Medellin;Facultad de Medicina;Administrativo;33890;5700000;25761
+12769;Palacio;Paula;Medellin;Facultad de Diseño;Docente;29871;4100000;18685
+15294;Cano;Sandra;Bogota;Facultad de Publicidad;Administrativo;30378;4200000;21689
+16714;Aguirre;Brenda;Monteria;Facultad de Ingenieria;Docente;30931;3200000;19972
+12635;Cifuentes;Oscar;Medellin;Facultad de Administracion;Docente;31050;1350000;24200
+14549;Perez;Elena;Medellin;Facultad de Administracion;Docente;31495;1350000;22982
+11712;Florez;Alejandra;Medellin;Facultad de Medicina;Tecnico;31689;1350000;23683
+12006;Giraldo;Esteban;Monteria;Facultad de Ingenieria;Aux. Administrativo;33091;1350000;23872
+12057;Arango;Juan;Medellin;Facultad de Diseño;Administrativo;33346;5600000;25746
+15910;Ramirez;Eliana;Palmira;Facultad de Administracion;Docente;32553;3200000;23514
+11010;Molina;Karla;Bucaramanga;Facultad de Administracion;Aux. Tecnico;32612;980000;18903
+14864;Diez;Patricia;Medellin;Facultad de Administracion;Administrativo;30817;5600000;21449
+11575;Marquez;Isabella;Bucaramanga;Facultad de Administracion;Administrativo;28533;5600000;20235
+11384;Guerra;Lisa;Medellin;Facultad de Diseño;Docente;31743;2300000;22347
+18654;Salamanca;Isabel;Medellin;Facultad de Diseño;Administrativo;32101;4350000;20563
+19311;Vergara;Amalia;Medellin;Facultad de Ingenieria;Docente;32032;3200000;22565
+15785;Lemos;Dalia;Medellin;Facultad de Diseño;Tecnico;32040;1100000;22554
+11030;Diaz ;Mariana;Monteria;Facultad de Comunicacion;Docente;33970;3200000;25342
+0;Girando;Felipe;Medellin;Facultad de Administracion;Aux. Administrativo;28531;1350000;23823
+0;Zapata;Stepania;Bucaramanga;Facultad de Ingenieria;Docente;32894;1350000;22890
+19490;Carmona;Jose;Palmira;Facultad de Administracion;Docente;32117;3200000;23294
+13782;Vasquez;Leonardo;Bucaramanga;Facultad de Ingenieria;Docente;33042;2600000;23203
+14073;Higuita;Cathy;Bogota;Facultad de Derecho;Docente;30967;3200000;14626
+18263;Jimenez;Karina;Medellin;Facultad de Ingenieria;Tecnico;30939;1700000;19961
+19427;Arias;Francisco;Palmira;Facultad de Diseño;Docente;31043;3200000;23002
+12302;Arroyave;Federico;Medellin;Facultad de Diseño;Tecnico;29385;1300000;24730
+11916;Garces;Elena;Medellin;Facultad de Administracion;Administrativo;32671;2400000;18057
+17168;Sierra;Luisa;Medellin;Facultad de Administracion;Docente;31446;2700000;23702
+15923;Arango;Tatiana;Medellin;Facultad de Diseño;Administrativo;32125;2500000;23283
+17663;Villamizar;Lina;Medellin;Facultad de Medicina;Docente;32339;3600000;22056
+14333;Pelaez;Andres;Medellin;Facultad de Ingenieria;Docente;29916;3200000;23996
+12786;Bermudez;Jesus;Medellin;Facultad de Diseño;Docente;31681;3800000;23694
+15794;Mota;Elisa;Bucaramanga;Facultad de Ingenieria;Docente;30892;3800000;20276
+14890;Berrio;Camilo;Palmira;Facultad de Diseño;Docente;30975;3200000;21920
+19012;Rodriguez;Hilda;Bucaramanga;Facultad de Administracion;Docente;32072;2900000;16533
+17974;Cortes;Rafael;Palmira;Facultad de Diseño;Administrativo;31503;4200000;22971
+13199;Rodriguez ;Ana Maria;Medellin;Facultad de Diseño;Docente;31034;2300000;25129
+11151;Gomez;Mariana;Bogota;Facultad de Publicidad;Docente;31805;3200000;24476
+11037;Toro;Manuel;Bucaramanga;Facultad de Ingenieria;Docente;30212;1980000;21388
+12909;Zapata;Stepania;Bucaramanga;Facultad de Ingenieria;Docente;32979;1350000;22890
+15649;Simanca;Alejandro;Monteria;Facultad de Ingenieria;Aux. Administrativo;33062;1600000;25447
+12387;Arango;Juan;Medellin;Facultad de Diseño;Administrativo;33346;5600000;25746
+18714;Granda;Luisa;Medellin;Facultad de Diseño;Docente;29863;4900000;18696
+18557;Florez;Alejandra;Medellin;Facultad de Medicina;Tecnico;31689;1350000;23683
+19646;Medina;Raquel;Medellin;Facultad de Medicina;Docente;32346;2940000;22089
+13562;Franco;Daniela;Palmira;Facultad de Administracion;Docente;32300;3200000;23298
+13395;Arango;Tatiana;Medellin;Facultad de Diseño;Administrativo;32125;2500000;23283
+16956;Gutierrez;Amalia;Medellin;Facultad de Medicina;Docente;33710;4900000;23767
+10858;Mendez;Gustavo;Medellin;Facultad de Ingenieria;Docente;32356;4000000;22085
+12126;Pelaez;Alberto;Medellin;Facultad de Administracion;Docente;32894;1350000;24038
+15631;Lemos;Dalia;Medellin;Facultad de Diseño;Tecnico;32040;1100000;22554
+13719;Jaramillo;Santiago;Medellin;Facultad de Administracion;Docente;31721;1350000;23834
+19703;Franco;Daniela;Palmira;Facultad de Administracion;Docente;32300;3200000;23298
+14504;De Santis;Marcela;Palmira;Facultad de Administracion;Aux. Administrativo;32331;1500000;22067
+12140;Rodas;Gabriel;Bogota;Facultad de Publicidad;Docente investigador;30204;3600000;21399
+11838;Lopez;Dinara;Bucaramanga;Facultad de Ingenieria;Administrativo;32205;5600000;20280
+18638;Molina;Karla;Bucaramanga;Facultad de Administracion;Aux. Tecnico;32612;980000;18903
+19700;Osorio;Julieth;Medellin;Facultad de Medicina;Docente;32561;3500000;23503
+11071;Toro;Manuel;Bucaramanga;Facultad de Ingenieria;Docente;30212;1980000;21388
+12465;Arango ;Monica;Medellin;Facultad de Diseño;Tecnico;33231;2000000;25114
+16933;Fernandez;Guillermo;Palmira;Facultad de Administracion;Docente;31112;4500000;23188
+13090;Diaz ;Evelyn;Bogota;Facultad de Publicidad;Docente investigador;32108;3600000;21693
+16533;Cano;Carolina;Medellin;Facultad de Ingenieria;Docente;32979;3200000;24022
+19359;Tamayo;Gloria;Monteria;Facultad de Ingenieria;Docente;31728;3200000;21267
+14736;Jaramillo;David;Bogota;Facultad de Publicidad;Docente investigador;28368;3400000;21263
+10138;Mendez;Gustavo;Medellin;Facultad de Ingenieria;Docente;32356;4000000;22085
+15785;Arroyave;Federico;Medellin;Facultad de Diseño;Tecnico;29385;1300000;24730
+11190;Santana;Javier;Monteria;Facultad de Comunicacion;Administrativo;29153;5600000;13751
+17545;Duque;Julian;Medellin;Facultad de Ingenieria;Docente;31438;2400000;23713
+13501;Rodriguez;Hilda;Bucaramanga;Facultad de Administracion;Docente;32072;2900000;16533
+16180;Berrio;Camilo;Palmira;Facultad de Diseño;Docente;30975;3200000;21920
+13457;Garces;Elena;Medellin;Facultad de Administracion;Administrativo;32671;2400000;18057
+17270;Cano;Sandra;Bogota;Facultad de Publicidad;Administrativo;30378;4200000;21689
+11479;Bustos;Jacobo;Bogota;Facultad de Publicidad;Docente investigador;32445;3700000;19334
+18408;Carmona;Sebastian;Medellin;Facultad de Administracion;Docente;29877;1500000;25458
+18692;Lema;Maria;Medellin;Facultad de Ingenieria;Aux. Administrativo;33338;1350000;25757
+17120;Simanca;Alejandro;Monteria;Facultad de Ingenieria;Aux. Administrativo;33062;1600000;25447
+12504;Gomez;Carlos;Medellin;Facultad de Medicina;Administrativo;32855;5600000;24009
+10879;Acevedo;Melina;Medellin;Facultad de Diseño;Administrativo;32771;3200000;22172
+10758;Acevedo;Melina;Medellin;Facultad de Diseño;Administrativo;32771;980000;22172
+19452;Arango;Mauricio;Bogota;Facultad de Derecho;Docente;30020;5600000;22953
+18146;Duque;Julian;Medellin;Facultad de Ingenieria;Docente;31438;5600000;23713
+19729;Hincapie;Victoria;Bucaramanga;Facultad de Administracion;Docente;30054;2300000;18888
+12828;Ramirez;Tomas;Medellin;Facultad de Administracion;Tecnico;32886;4350000;24049
+11901;Villegas;Estefania;Palmira;Facultad de Administracion;Docente;33688;3200000;23393
+15403;Pelaez;Andres;Medellin;Facultad de Ingenieria;Docente;29916;1100000;23996
+12229;Muñoz;Maritza;Medellin;Facultad de Ingenieria;Docente;31421;3200000;20360
+17308;Uribe;Carmen;Medellin;Facultad de Administracion;Aux. Administrativo;31042;1350000;20559
+11460;Betancur;Gonzalo;Bucaramanga;Facultad de Administracion;Docente;33223;1350000;25125
+15349;Rojas ;Pablo;Bucaramanga;Facultad de Administracion;Docente;28376;3200000;24906
+10825;Cifuentes;Oscar;Medellin;Facultad de Administracion;Docente;31050;2600000;24200
+17691;Marulanda;Sofia;Medellin;Facultad de Diseño;Docente;30240;3200000;24011
+18900;Restrepo;Karen;Palmira;Facultad de Diseño;Aux. Administrativo;31104;1700000;23199
+19600;Betancurt;Santiago;Bucaramanga;Facultad de Administracion;Aux. Administrativo;33551;3200000;25338
+15420;Cortes;Rafael;Palmira;Facultad de Diseño;Administrativo;31503;1300000;22971
+19963;Jaramillo;Ana;Medellin;Facultad de Ingenieria;Aux. Administrativo;33357;2400000;25850
+13134;Betancurt;Santiago;Bucaramanga;Facultad de Administracion;Aux. Administrativo;33551;2700000;25338
+14877;Sanchez;Miguel;Medellin;Facultad de Ingenieria;Docente;30689;2500000;18061
+12240;Aristizabal;Natalia;Bogota;Facultad de Derecho;Docente investigador;33823;3600000;25443
+14776;Toledo;Roberta;Medellin;Facultad de Diseño;Aux. Administrativo;32779;3200000;22161
+14766;Arango;Mauricio;Bogota;Facultad de Derecho;Docente;30020;3800000;22953
+15330;Rico;Samuel;Medellin;Facultad de Ingenieria;Docente;31452;3800000;22071
+17813;Ruiz;Susana;Bogota;Facultad de Derecho;Administrativo;31538;3200000;17751
+14810;Casadiegos;Manuela;Medellin;Facultad de Diseño;Aux. Administrativo;30900;2900000;23918
+18081;Hernandez ;Juan;Bogota;Facultad de Publicidad;Docente investigador;32087;4200000;25462
+12874;Fernandez;Guillermo;Palmira;Facultad de Administracion;Docente;31112;2300000;23188
+18104;Marquez;Jessica;Medellin;Facultad de Ingenieria;Docente;31209;3200000;22954
+12985;Dominguez ;Camila;Bogota;Facultad de Derecho;Docente investigador;33559;1980000;25327
+16553;Saldarriaga;Virginia;Monteria;Facultad de Comunicacion;Docente;33490;1350000;22202
+18850;Diaz ;Evelyn;Bogota;Facultad de Publicidad;Docente investigador;32108;1600000;21693
+19421;Suarez;Miguel;Bogota;Facultad de Derecho;Docente investigador;33344;5600000;24693
+19901;Villamizar;Lina;Medellin;Facultad de Medicina;Docente;32339;4900000;22056
+14977;Pulgarin;Angelina;Monteria;Facultad de Ingenieria;Administrativo;31965;1350000;20400
+16150;Caro;Diana;Medellin;Facultad de Ingenieria;Administrativo;29276;2940000;21790
+12391;Mendez;Tammy;Medellin;Facultad de Administracion;Docente;30386;3200000;21678
+11226;Dominguez ;Camila;Bogota;Facultad de Derecho;Docente investigador;33559;2500000;25327
+11613;Marquez;Jessica;Medellin;Facultad de Ingenieria;Docente;31209;4900000;22954
+16596;Salamanca;Isabel;Medellin;Facultad de Diseño;Administrativo;32101;4000000;20563
+15678;Ospina;Daniel;Medellin;Facultad de Administracion;Docente;33258;1350000;24487
+15508;Merizalde;Antonio;Palmira;Facultad de Diseño;Docente;31051;1100000;22991
+17552;Gomez;Mariana;Bogota;Facultad de Publicidad;Docente;31805;1350000;24476
+16020;Osorio;Catalina;Bogota;Facultad de Derecho;Docente;32863;3200000;23998
+16121;Carmona ;Andrea;Monteria;Facultad de Ingenieria;Docente;32571;1500000;25432
+13654;Idarraga;Jorge;Monteria;Facultad de Ingenieria;Aux. Administrativo;29066;3600000;14862
+10341;Gutierrez;Amalia;Medellin;Facultad de Medicina;Docente;33710;5600000;23767
+12713;Aguirre;Brenda;Monteria;Facultad de Ingenieria;Docente;30931;980000;19972
+14149;Serna;Pamela;Bucaramanga;Facultad de Ingenieria;Aux. Administrativo;31217;3500000;22943
+10768;Gracia;Simon;Medellin;Facultad de Medicina;Aux. Administrativo;29908;1980000;24007
+14449;Perez;Alicia;Bucaramanga;Facultad de Ingenieria;Aux. Administrativo;32971;2000000;24033
+14837;Sierra;Luisa;Medellin;Facultad de Administracion;Docente;31446;4500000;23702
+16885;Melano;Luis;Medellin;Facultad de Administracion;Docente;33680;3600000;23404
+16749;Mota;Elisa;Bucaramanga;Facultad de Ingenieria;Docente;30892;3200000;20276
+18913;Hernandez ;Juan;Bogota;Facultad de Publicidad;Docente investigador;32087;3200000;25462
+10041;Pulgarin;Angelina;Monteria;Facultad de Ingenieria;Administrativo;31965;3400000;20400
+17746;Arango ;Monica;Medellin;Facultad de Diseño;Tecnico;33231;4000000;25114
+15532;Vasquez;Leonardo;Bucaramanga;Facultad de Ingenieria;Docente;33042;1300000;23203
+11622;Castrillon;Juliana;Bucaramanga;Facultad de Ingenieria;Docente;32639;5600000;23518
+11777;Santana;Javier;Monteria;Facultad de Comunicacion;Administrativo;29153;2400000;13751
+10933;Uribe;Melisa;Medellin;Facultad de Medicina;Tecnico;30028;2900000;22942
+12539;Alzate;Angela;Monteria;Facultad de Ingenieria;Tecnico;31543;3200000;24491
+11987;Rojas ;Pablo;Bucaramanga;Facultad de Administracion;Docente;28376;2400000;24906
+19270;Burgos;Jeronimo;Palmira;Facultad de Administracion;Administrativo;30046;4200000;18899
+17194;Rico;Samuel;Medellin;Facultad de Ingenieria;Docente;31452;3700000;22071
+17391;Melano;Luis;Medellin;Facultad de Administracion;Docente;33680;1500000;23404
+13353;Lemus;David;Palmira;Facultad de Diseño;Docente;32971;1350000;22901
+10830;De Santis;Marcela;Palmira;Facultad de Administracion;Aux. Administrativo;32331;1600000;22067
+17416;Posada;Carlos;Bogota;Facultad de Derecho;Docente;33365;3500000;25839
+13504;Granda;Luisa;Medellin;Facultad de Diseño;Docente;29863;1980000;18696
+15457;Medina;Raquel;Medellin;Facultad de Medicina;Docente;32346;2000000;22089
+14628;Betancur;Gonzalo;Bucaramanga;Facultad de Administracion;Docente;33223;4500000;25125
+13635;Jaramillo;Ana;Medellin;Facultad de Ingenieria;Aux. Administrativo;33357;3600000;25850
+12611;Idarraga;Jorge;Monteria;Facultad de Ingenieria;Aux. Administrativo;29066;3200000;14862
+11478;Carmona ;Andrea;0;Facultad de Ingenieria;Docente;32571;3200000;25432
+19934;Uribe;Melisa;Medellin;Facultad de Medicina;Tecnico;30028;3400000;22942
+13594;Toledo;Roberta;Medellin;Facultad de Diseño;Aux. Administrativo;32779;4000000;22161
+17650;Hoyos;Adriana;Bogota;Facultad de Derecho;Docente;33336;1300000;24704
+12801;Henao;Barbara;Bucaramanga;Facultad de Derecho;Docente;31751;5600000;22336
+19573;Posada;Sergio;Monteria;Facultad de Comunicacion;Docente;28523;2400000;19877
+11667;Lemus;David;Palmira;Facultad de Diseño;Docente;32971;2900000;22901
+17599;Diez;0;Medellin;Facultad de Administracion;Administrativo;30817;3200000;21449
+16887;Giraldo;Esteban;0;Facultad de Ingenieria;Aux. Administrativo;33091;2400000;23872
+18232;Henao;Barbara;Bucaramanga;Facultad de Ingenieria;Docente;31751;4200000;22336
+15910;Rodriguez ;Ana Maria;Medellin;Facultad de Diseño;Administrativo;31034;3700000;25129
+17369;Vallejo;Sara;Medellin;Facultad de Diseño;Docente;33094;1500000;22074
+10528;Suarez;Miguel;Bogota;Facultad de Derecho;Docente investigador;33344;1350000;24693
+13239;Vergara;Amalia;Medellin;Facultad de Ingenieria;Docente;32032;1600000;22565
